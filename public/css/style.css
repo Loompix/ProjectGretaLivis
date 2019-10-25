@@ -15,6 +15,7 @@ body{
 nav{
     margin: auto;
     width: 40%;
+    margin-bottom: 5rem;
 }
 #navbarSupportedContent>ul>li>a{
     margin: 0 2.5rem;
@@ -31,4 +32,25 @@ h1{
 .link-greta:hover{
     font-size: 1.2rem;
     color: gold;
+}
+article{
+    width: 70%;
+    margin: auto;
+    font-weight: bold;
+}
+article>p>a{
+    color: green;
+}
+h2{
+    text-align: center;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+.foreach{
+
+    width: 70%;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8rem;
 }

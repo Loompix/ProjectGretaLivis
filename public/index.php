@@ -24,7 +24,7 @@
             <div class="navbar-collapse collapse" id="navbarSupportedContent" style>
                 <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Exemple PHP</a>
+                    <a class="nav-link" href="../php/articles.php">Exemple PHP</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://www.linkedin.com/in/cyril-livis" target="_blank">Mon linkedin</a>
@@ -34,9 +34,15 @@
         </nav>
     </header>
 
-    <p class="text-center m-3">
-        Bonjour et bienvenue sur cette page spécialement créée pour alimenter mon dossier de candidature pour la formation de développeur web/mobil dispensée par le <a class="link-greta" target="_blank" href="https://www.greta-aquitaine.fr/greta-sud-aquitaine/agences-greta-sud/agence-de-pau/">greta</a>
-    </p>
+    <article>
+        <p class="text-center m-3 text-white">
+            Bonjour et bienvenue sur cette page spécialement créée pour alimenter mon dossier de candidature pour la formation de développeur web/mobil dispensée par le <a class="link-greta" target="_blank" href="https://www.greta-aquitaine.fr/greta-sud-aquitaine/agences-greta-sud/agence-de-pau/">greta</a>.
+            J'ai volontairement utilisé HTML/CSS/PHP sans framework (j'aurais pu par exemple utiliser Symfony), seul Bootstrap4 a été utilisé, car le but de cet exercice est de démontrer les bases que j'ai dans le développement Web.
+        </p>
+        <p class="text-center m-3 text-white">
+            Le code produit est disponible en OpenSource sur Github -> <a href="https://github.com/Loompix/ProjectGretaLivis" target="_blank">Ici</a>
+        <p>
+    </article>
 </body>
 
 </html>
