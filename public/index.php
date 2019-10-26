@@ -40,6 +40,9 @@
             J'ai volontairement utilisé HTML/CSS/PHP sans framework (j'aurais pu par exemple utiliser Symfony), seul Bootstrap4 a été utilisé, car le but de cet exercice est de démontrer les bases que j'ai dans le développement Web.
         </p>
         <p class="text-center m-3 text-white">
+            Le serveur est hébergé sur Gandi, le code a été produit via VScode sur un environnement de machine virtuel utilisant Ubuntu.
+        <p>
+        <p class="text-center m-3 text-white">
             Le code produit est disponible en OpenSource sur Github -> <a href="https://github.com/Loompix/ProjectGretaLivis" target="_blank">Ici</a>
         <p>
     </article>
