@@ -3,7 +3,7 @@ html{
     min-height: 100%;
 }
 body{
-    background-image: url(../../img/body.jpg);
+    background-image: url(../img/body.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 60px;
