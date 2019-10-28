@@ -14,7 +14,7 @@
     ?>
     
         <h2> Voici la liste des articles enregistrés en BDD gérés via phpMyAdmin : </h2>
-        <p class="text-center mb-5">Retour à <a class ="text-warning"href="../index.php">l'accueil</a></p>
+        <p class="text-center mb-5">Retour à <a class ="text-warning"href="http://cyrillivis.fr">l'accueil</a></p>
         
 
         <?php
